@@ -15,7 +15,7 @@ This is a simple GUI-based Widget based on matplotlib in Python to facilitate qu
 Clone the repo.
 
 ```
-git clone https://github.com/hanskrupakar/COCO-Style-Dataset-Generator-GUI.git
+https://github.com/quaesitor-scientiam/COCO-Style-Dataset-Generator-GUI.git
 ```
 
 #### Installing Dependencies:
